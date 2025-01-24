@@ -19,7 +19,7 @@ Enthusiastic about learning, I’m always eager to apply myself and tackle compl
 | Technology                                                                                                                                     | Name           |
 |------------------------------------------------------------------------------------------------------------------------------------------------|--------------- |
 | <img alt="Python" src="https://img.shields.io/badge/Python-blue?logo=python&logoColor=white&color=306998"/>                                    |  Python        |
-| <img alt="Scala" src="https://img.shields.io/badge/Scala%20-%20white?style=plastic&logo=Scala&logoColor=red&labelColor=white"/>                |  Scala         |
+| <img alt="Scala" src="https://img.shields.io/badge/Scala%20-%20grey?style=plastic&logo=Scala&logoColor=red"/>                                  |  Scala         |
 | <img alt="SQL" src="https://img.shields.io/badge/SQL%20-%20grey?style=plastic&logo=mysql&logoColor=blue"/>                                     |  SQL           |
 
 </td>
