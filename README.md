@@ -1,12 +1,10 @@
 ## Welcome to my GitHub.
 
-- 👀 I’m interested in Data Engineering and Data Analytics
-- 🌱 I’m currently learning Python, SQL, Spark, Scala, Hadoop, Cloud Computing
-- ⚡ Fun fact: I am an engineer with a diverse range of expertise, including electrical building design, and project management experience with electrical design of 5G towers across North America!
+🌱 I’m interested in Data Engineering and Data Analytics
+⚡ Fun fact: I am an engineer with a diverse range of expertise, including electrical building design, and project management experience with electrical design of 5G towers across North America!
 
-I’m a Data Engineer with expertise in Python, Scala, SQL, Spark, and Big Data. With an Electrical Engineering background in both technical and managerial areas, I bring a unique analytical approach to data challenges. I’ve had the privilege of working with Canada’s top banks, RBC and CIBC, where I helped modernize data infrastructure, optimize ETL pipelines, and transition data to the cloud for high-performance analytics and large-scale processing. 
+I’m a Data Engineer with expertise in Python, Scala, SQL, Spark, and Big Data. With an Electrical Engineering background in both technical and managerial areas, I bring a unique analytical approach to data challenges. I’ve had the privilege of working with Canada’s top banks where I helped modernize data infrastructure, optimize ETL pipelines, and transition data to the cloud for high-performance analytics and large-scale processing. 
 
-Enthusiastic about learning, I’m always eager to apply myself and tackle complex data problems while continuously growing in the field. I'm interested in a wide array of Data and Machine Learning concepts and always consuming and applying myself! Check out my work!
 
 <table>
 <tr>
