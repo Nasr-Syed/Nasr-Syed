@@ -11,7 +11,7 @@ I’m a Data Engineer with expertise in Python, Scala, SQL, Spark, and Big Data.
 <tr>
 <td>
 
-| Technology                                                                                                                                     | Name           |
+|                                                                                                                                                |  Technology    |
 |------------------------------------------------------------------------------------------------------------------------------------------------|--------------- |
 | <img alt="Python" src="https://img.shields.io/badge/Python-blue?logo=python&logoColor=white&color=306998"/>                                    |  Python        |
 | <img alt="Scala" src="https://img.shields.io/badge/Scala%20-%20grey?style=plastic&logo=Scala&logoColor=red"/>                                  |  Scala         |
@@ -20,7 +20,7 @@ I’m a Data Engineer with expertise in Python, Scala, SQL, Spark, and Big Data.
 </td>
 <td>
 
-| Technology                                                                                                                                           | Name             |
+|                                                                                                                                                      |  Technology      |
 |------------------------------------------------------------------------------------------------------------------------------------------------------|------------------|
 | <img alt="Apache Spark" src="https://img.shields.io/badge/Apache%20Spark%20-%20black?logo=apachespark&logoColor=%23E25A1C&color=%233b3b3b"/>         |  Apache Spark    |
 | <img alt="Microsoft Azure" src="https://img.shields.io/badge/Microsoft%20Azure%20-%20blue?logo=icloud&logoColor=white&color=007FFF"/>                |  Microsoft Azure | 
