@@ -2,6 +2,8 @@
 
 I’m a Data Engineer with expertise in Python, Scala, SQL, Spark, and Big Data. With an Electrical Engineering background in both technical and managerial areas, I bring a unique analytical approach to data challenges. I’ve had the privilege of working with Canada’s top banks where I helped modernize data infrastructure, optimize ETL pipelines, and transition data to the cloud for high-performance analytics and large-scale processing. 
 
+I'm a driven engineer with a passion for data and a relentless drive to expand my expertise. I thrive on tackling challenges, and pushing the boundaries of my knowledge every day.
+
 
 <table>
 <tr>
